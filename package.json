@@ -1,0 +1,25 @@
+{
+  "name": "msc-select-list",
+  "version": "1.0.0",
+  "description": "<msc-select-list /> provides a common UI as <select /> and group checkboxs as its drop menu. So user could experience it as usual and have multi-select feature.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meistudioli/msc-select-list.git"
+  },
+  "keywords": [
+    "web",
+    "front-end",
+    "web component",
+    "select list"
+  ],
+  "author": "Paul Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meistudioli/msc-select-list/issues"
+  },
+  "homepage": "https://github.com/meistudioli/msc-select-list#readme"
+}
