@@ -2,7 +2,6 @@ import { _wcl } from './common-lib.js';
 import { _wccss } from './common-css.js';
 import {
   colorPalette as _fujiColorPalette,
-  buttons as _fujiButtons,
   a11y as _fujiA11y,
   input as _fujiInput,
   checkbox as _fujiCheckbox,
@@ -29,7 +28,6 @@ template.innerHTML = `
 <style>
 ${_wccss}
 ${_fujiColorPalette}
-${_fujiButtons}
 ${_fujiA11y}
 ${_fujiInput}
 ${_fujiCheckbox}
@@ -297,7 +295,7 @@ if (CSS?.registerProperty) {
       initialValue: 'rgba(0 0 0/.15)'
     });
   } catch(err) {
-    console.warn(`msc-collage: ${err.message}`);
+    console.warn(`msc-select-list: ${err.message}`);
   }
 }
 

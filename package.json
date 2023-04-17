@@ -1,6 +1,6 @@
 {
   "name": "msc-select-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "<msc-select-list /> provides a common UI as <select /> and group checkboxs as its drop menu. So user could experience it as usual and have multi-select feature.",
   "main": "index.html",
   "scripts": {
